@@ -1,0 +1,2 @@
+OK = 'OK'
+ERROR = 'ERROR'
